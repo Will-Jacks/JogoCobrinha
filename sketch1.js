@@ -8,7 +8,7 @@ let imagemProgramador;
 let imagemFundo;
 let imagemFundoSnake;
 let imagemCobrinha;
-var tela = 0;
+var tela = 1;
 
 
 //                              Variáveis do botão iniciar
